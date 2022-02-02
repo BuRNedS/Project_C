@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-int main()
+void main()
 {
     int h=0,m=0,s=0;
     double i;
@@ -35,5 +35,4 @@ int main()
     h=0;
     goto start;
     getch();
-    return 0;
 }
